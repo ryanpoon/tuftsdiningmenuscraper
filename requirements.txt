@@ -1,0 +1,7 @@
+requests
+datetime
+bqplot
+ipympl
+ipyvolume
+scipy
+voila
